@@ -1,0 +1,65 @@
+What does the following Python Program print out?
+
+Hello
+there
+Hellothere
+0
+Hello
+
+
+What does the following Python program print out?
+int402
+42
+x2
+402
+
+How would you use the index operator [] to print out the letter q from the following 
+print(x[9])
+print(x[7])
+print x[-1]
+print(x[8])
+print(x[q])
+
+How would you use string slicing [:] to print out 'uct' from the following string?
+print(x[14:3])
+print(x[15:18])
+print(x[14/17])
+print(x[14+17])
+print(x[14:17])
+print(x[15:3])
+
+What is the iteration variable in the following Python code?
+for
+in
+letter
+print
+'banana'
+
+What does the following Python code print out?
+
+banana7
+42
+banana banana banana banana banana banana banana
+-1
+
+Which of the following is not a valid string method in Python?
+boldface()
+upper()
+lower()
+lstrip()
+startswith()
+
+What will the following Python code print out?
+uct
+09:14
+.ma
+mar
+
+
+
+Which of the following string methods removes whitespace from both the beginning and end of a string?
+strip()
+strtrunc()
+wsrem()
+split()
+
